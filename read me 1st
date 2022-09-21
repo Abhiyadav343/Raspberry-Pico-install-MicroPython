@@ -1,0 +1,10 @@
+
+Push and hold the BOOTSEL button and plug your Pico into the USB port of your Raspberry Pi or other computer. Release the BOOTSEL button after your Pico is connected.
+
+It will mount as a Mass Storage Device called RPI-RP2.
+
+Drag and drop the MicroPython UF2 file onto the RPI-RP2 volume. Your Pico will reboot. You are now running MicroPython.
+
+You can access the REPL via USB Serial.
+
+The Raspberry Pi Pico Python SDK book contains step-by-step instructions for connecting to your Pico and programming it in MicroPython using both the command line and the Thonny IDE.
